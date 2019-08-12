@@ -1,0 +1,1 @@
+These are the final reconstructions of each of the three models of the test set videos. They are presented side-by-side with the test video, in order to facilitate a good comparison.

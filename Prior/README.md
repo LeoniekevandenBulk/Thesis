@@ -1,0 +1,3 @@
+The prior videos can downloaded through the scripts "download_MomentsInTime_videos.py" for the Moments In Time dataset (http://moments.csail.mit.edu/) or "download_Youtube8M_videos.py" for the Youtube-8M dataset (https://research.google.com/youtube8m/). 
+
+The script "generate_Youtube8M_urls.py" is not necessary for the download of the priors, but was used to convert the anonymous ids from the Youtube-8M dataset into usable Youtube links and is provided to show how this was done.
