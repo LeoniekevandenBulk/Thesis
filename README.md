@@ -6,6 +6,6 @@ My research is based on the work by Nishimoto et al. [1], where the goal was to 
 The folders in this directory contain the code and reconstructions from my work. More explanation on the code can be found in the READMEs of the respective folders and the comments in the code itself. 
 
 
-[1] Nishimoto S, Vu AT, Naselaris T, Benjamini Y, Yu B, Gallant JL., Reconstructing visual experiences from brain activity evoked by natural movies. Curr Biol. 21(19):1641-6. (2011)
+[1] Nishimoto S, Vu AT, Naselaris T, Benjamini Y, Yu B, Gallant JL. (2011). Reconstructing visual experiences from brain activity evoked by natural movies. Current Biology 21(19), 1641-1646. 
 
 [2] Tran, D., Wang, H., Torresani, L., Ray, J., LeCun, Y., & Paluri, M. (2018). A closer look at spatiotemporal convolutions for action recognition. In Proceedings of the IEEE conference on Computer Vision and Pattern Recognition (pp. 6450-6459).
